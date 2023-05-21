@@ -1,0 +1,16 @@
+.contain{
+    margin: 20px;
+    color: rgb(31, 32, 33);
+}
+body{
+    color: rgb(11, 12, 12);
+}
+p{
+    margin: 10px;
+}
+.btn-logout{
+    width: 100px;
+    margin: 10px auto;
+    background-color: black;
+    padding: 5px;
+}
